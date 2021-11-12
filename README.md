@@ -1,7 +1,5 @@
 ### Here is what i'm working on! 👋
 
-<!--
-**VaishaliVithani/VaishaliVithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...linkedin.com/in/vaishali-vithani-b1667414b
 - 😄 Pronouns: ...Her/Mrs
 - ⚡ Fun fact: ...“I know it's crazy, but I love to eat pani puri.😋 "
--->
+
